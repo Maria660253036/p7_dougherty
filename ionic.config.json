@@ -1,0 +1,8 @@
+{
+  "name": "p7_dougherty",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
